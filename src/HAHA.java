@@ -6,5 +6,6 @@ public class HAHA {
 
         int cislo = 75;
         String JB2 = "je falat2";
+        String KarolSomariny = "karol je falat";
     }
 }
